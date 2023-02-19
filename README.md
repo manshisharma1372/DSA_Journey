@@ -1,2 +1,2 @@
 # DSA_Journey
-DSA, using C++
+DSA using C++
